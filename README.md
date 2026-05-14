@@ -17,7 +17,9 @@ Wir haben ein Icon erstellt für den PC Virus
 
 <img width="256" height="256" alt="ldder" src="https://github.com/user-attachments/assets/6d817845-e8ed-469b-b753-c2f7cf243183" />
 
+# Leaks🫢
 
+Noch Keine Leaks!
 
 
 
