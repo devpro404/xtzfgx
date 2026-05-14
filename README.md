@@ -7,6 +7,8 @@ und Wenn Es Rauskommt du musst Es in **C:** Packen💾
 
 $$\color{red}{\text{Warnung Dies Löscht System32 und ich bin nicht zuständig wenn eure PC kaputt geht!}}$$
 $$\color{green}{\text{aber es gibt auch eine sichere Variante die noch nicht draußen ist}}$$
+$$\color{green}{\text{Gemacht mit Visual Studio Und Visual Studio Code}}$$
+$$\color{green}{\text{und Code Sprachen C++ Python und html}}$$
 
 # Updates📢
 **14.05.2026**
