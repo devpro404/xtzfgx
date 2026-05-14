@@ -9,7 +9,7 @@ $$\color{red}{\text{Warnung Dies Löscht System32 und ich bin nicht zuständig w
 $$\color{green}{\text{aber es gibt auch eine sichere Variante die noch nicht draußen ist}}$$
 
 # Updates📢
-14.05.2026
+**14.05.2026**
 
 Wir haben ein Icon erstellt für den PC Virus
 
