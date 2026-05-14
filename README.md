@@ -1,5 +1,5 @@
 # ⚠️xtzfgx PC Virus
-!Es ist Leider Noch Nicht Draußen🚫
+Es ist Leider Noch Nicht Draußen🚫
 
 und Wenn Es Rauskommt du musst Es in C: Packen💾
 
