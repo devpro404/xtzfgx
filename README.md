@@ -11,11 +11,16 @@ $$\color{green}{\text{Gemacht mit Visual Studio Und Visual Studio Code}}$$
 $$\color{green}{\text{und Code Sprachen C++ und Python}}$$
 
 # Updates📢
-**14.05.2026**
-
+**14.05.2026**                         
+              
 Wir haben ein Icon erstellt für den PC Virus
 
 <img width="256" height="256" alt="ldder" src="https://github.com/user-attachments/assets/6d817845-e8ed-469b-b753-c2f7cf243183" />
+
+
+**15.05.2026**
+
+Wir Haben Töne hinzugefügt
 
 # Leaks🫢
 
