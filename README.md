@@ -3,7 +3,7 @@ Es ist Leider Noch Nicht Draußen🚫
 
 und Wenn Es Rauskommt du musst Es in **C:** Packen💾
 
-<img width="450" height="105" alt="image" src="https://www.google.com/imgres?q=Steal%20a%20brainrot&imgurl=https%3A%2F%2Fwww.vijesti.me%2Fdata%2Fimages%2F2025%2F08%2F31%2F10%2F5668435_braint_ls.jpg&imgrefurl=https%3A%2F%2Fde.vijesti.me%2FSpa%25C3%259F%2FGaming%2F772811%2FSteal-und-Brainrot--neuer-Hit-auf-der-Roblox-Plattform&docid=Ci7ueO5Rgh2JGM&tbnid=QO-WgbPJ6eSNQM&vet=12ahUKEwib-5aI6ruUAxVhAtsEHadoIRQQnPAOegQIJBAB..i&w=1000&h=666&hcb=2&ved=2ahUKEwib-5aI6ruUAxVhAtsEHadoIRQQnPAOegQIJBAB" />
+<img width="450" height="105" alt="image" src="https://github.com/user-attachments/assets/e3dabc0e-03a0-4884-bc67-04ec2d81128f" />
 
 $$\color{red}{\text{Warnung Dies Löscht System32 und ich bin nicht zuständig wenn eure PC kaputt geht!}}$$
 $$\color{green}{\text{aber es gibt auch eine sichere Variante die noch nicht draußen ist}}$$
@@ -25,7 +25,6 @@ Wir Haben Töne hinzugefügt
 # Leaks🫢
 
 Noch Keine Leaks!
-
 
 
 
