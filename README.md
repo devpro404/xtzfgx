@@ -10,6 +10,10 @@ $$\color{green}{\text{aber es gibt auch eine sichere Variante die noch nicht dra
 $$\color{green}{\text{Gemacht mit Visual Studio Und Visual Studio Code}}$$
 $$\color{green}{\text{und Code Sprachen C++ und Python}}$$
 
+# Anleitung📕
+1.du musst https://www.python.org/ftp/python/pymanager/python-manager-26.2.msix installieren
+2.Du Musst in Windows PowerShell egal ob destructive oder safety Du Musst pip install pyautogui eingeben
+
 # Updates📢
 **14.05.2026**                         
               
